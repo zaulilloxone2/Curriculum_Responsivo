@@ -19,7 +19,7 @@
 4. Css debe estar generado con less o sass *opcional
 5. Debe seleccionar uno de los 4 patrones de diseño que viene en la parte de referencia y tendrá que ser la base para esta nueva versión de Curriculum Vitae.
 ### Resultados:
-Hice de nuevo mi curriculum vitae y ahora es responsivo, le agregue una loading spiral, un carrusel, rejillas, listas, y una nueva sección de comentarios. Anexo las fotografías así como los archivos fuentes para que se pueda ver el trabajo hecho.
+Hice de nuevo mi curriculum vitae y ahora es responsivo, le agregue una loading spiral nuevas fuentes y una quote para mi nombre centrada, un carrusel, rejillas, listas, y una nueva sección de comentarios. Anexo las fotografías así como los archivos fuentes para que se pueda ver el trabajo hecho.
 ![image](https://github.com/zaulilloxone2/Curriculum_Responsivo/blob/c38406692f1a6cd15e3952eeb0c568dc79bc42a1/1.png) 
 ![image](https://github.com/zaulilloxone2/Curriculum_Responsivo/blob/c38406692f1a6cd15e3952eeb0c568dc79bc42a1/2.png) 
 ![image](https://github.com/zaulilloxone2/Curriculum_Responsivo/blob/c38406692f1a6cd15e3952eeb0c568dc79bc42a1/3.png) 
